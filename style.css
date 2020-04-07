@@ -1,0 +1,34 @@
+body {
+    background: #222222;
+    color: white;
+    font-size: 11pt;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11pt;
+    text-decoration: none;
+}
+
+a:link {
+    color: #EFE080;
+}
+
+a:visited {
+    color: #bFc060;
+}
+
+a:active {
+    color: #F4E484;
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #F4E484;
+}
+
+p {
+    font-size: 11pt;
+}
